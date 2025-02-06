@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Hi, I’m **PREETHIKA M**
 
 
-🎓 Mathematics Graduate | 📊 Aspiring Data Scientist  
+ 🎓Mathematics Graduate | 📊 Aspiring Data Scientist  
 
-### 👀 I’m interested in:
+### 👀I’m interested in:
 - 🐍 Python Programming  
 - 🤖 Machine Learning & AI  
 - 📈 Data Science & Analytics  
@@ -23,7 +23,7 @@
 - 💼 https://www.linkedin.com/in/mpreethika  
 - 🏆 https://www.hackerrank.com/profile/preethikanair01 
 
-### ⚡ 
+###<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40px">   
 I love solving **aptitude puzzles**, coding challenges, and exploring **new datasets** in my free time! 😃  
 
 <!---
