@@ -1,4 +1,5 @@
-- ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) 👋 Hi, I’m **PREETHIKA M**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Hi, I’m **PREETHIKA M**
+
 
 🎓 Mathematics Graduate | 📊 Aspiring Data Scientist  
 
